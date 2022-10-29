@@ -1,0 +1,20 @@
+h1{
+	color: whitesmoke;
+	font-family: Montserrat;
+	letter-spacing: 2px;
+	font-style: italic;
+}
+p{
+	font-size: 25px;
+}
+
+body{
+	background-color: darkgrey;
+	color: whitesmoke;
+	font-size: 18px;
+}
+
+h2{
+	text-decoration: underline;
+	font-style: italic;
+
